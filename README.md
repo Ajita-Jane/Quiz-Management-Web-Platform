@@ -1,10 +1,10 @@
 # Quiz-Management-Web-Platform
 
-An interactive educational web application that allows users to take subject-wise quizzes with adjustable difficulty levels. The platform leverages Spring Boot for backend services, JSP for dynamic front-end rendering, and MySQL for persistent data storage. It supports role-based access control and robust user performance tracking, making it ideal for both learners and administrators.
+An interactive educational web application that allows users to take subject-wise quizzes. The platform leverages Spring Boot for backend services, JSP for dynamic front-end rendering, and MySQL for persistent data storage. It supports role-based access control and robust user performance tracking, making it ideal for both learners and administrators.
 
 🎯 Features 
 
-🧠 Dynamic Quiz Generation: Quizzes are automatically generated based on the selected subject and difficulty level. 
+🧠 Dynamic Quiz Generation: Quizzes are automatically generated based on the selected subject. 
 
 📊 Performance Tracking: Stores quiz results, user scores, and history in MySQL for personalized feedback and analysis.
 
